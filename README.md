@@ -30,7 +30,7 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 
 
 
-<details>
+
 <summary><strong>2. Probabilistic Models</strong> – Generate text with statistics</summary>
 
 | # | Notebook | Description |
@@ -40,9 +40,9 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 | 3 | [`03.NLP_Article_Spinner.ipynb`](NLP/code/02.Probabilistic_Models/03.NLP_Article_Spinner.ipynb) | Paraphrase using synonyms |
 | 4 | [`04.NLP_Cipher_Decryption.ipynb`](NLP/code/02.Probabilistic_Models/04.NLP_Cipher_Decryption.ipynb) | Frequency analysis attack |
 
-</details>
 
-<details>
+
+
 <summary><strong>3. Machine Learning Models</strong> – Classic NLP with scikit-learn & more</summary>
 
 | # | Notebook | Description |
@@ -57,9 +57,9 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 | 8 | [`08.NLP_Linear_Regression_Tensorflow.ipynb`](NLP/code/03.Machine_Learning_Models/08.NLP_Linear_Regression_Tensorflow.ipynb) | Regression in TF |
 | 9 | [`09.NLP_TF2_Classification.ipynb`](NLP/code/03.Machine_Learning_Models/09.NLP_TF2_Classification.ipynb) | TensorFlow basics |
 
-</details>
 
-<details>
+
+
 <summary><strong>4. Deep Learning Models</strong> – Neural networks for NLP</summary>
 
 | # | Notebook | Description |
@@ -74,7 +74,7 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 | 8 | [`08.NLP_Named_Entity_Recognition.ipynb`](NLP/code/04.Deep_Learning_Models/08.NLP_Named_Entity_Recognition.ipynb) | NER with BiLSTM |
 | 9 | [`09.NLP_CNN_Many_to_Many.ipynb`](NLP/code/04.Deep_Learning_Models/09.NLP_CNN_Many_to_Many.ipynb) | Many-to-many CNN |
 
-</details>
+
 
 ---
 
