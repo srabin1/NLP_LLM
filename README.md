@@ -1,7 +1,4 @@
-# NLP_LLM – Natural Language Processing & Deep Learning Notebooks
-
-
-# NLP Learning Roadmap – From Basics to Deep Learning
+# NLP and LLM Learning Roadmap – From Basics to Deep Learning
 
 A **step-by-step journey** through Natural Language Processing, implemented in **Google Colaboratory**.
 
@@ -20,7 +17,7 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 
 ## Detailed Roadmap
 
-<details>
+
 <summary><strong>1. Text Preprocessing</strong> – Foundational text cleaning & representation</summary>
 
 | # | Notebook | Description |
@@ -31,7 +28,7 @@ A **step-by-step journey** through Natural Language Processing, implemented in *
 | 4 | [`04.NLP_TFIDF_Scratch.ipynb`](NLP/code/01.Text_Preprocessing/04.NLP_TFIDF_Scratch.ipynb) | Implement TF-IDF from scratch |
 | 5 | [`05.NLP_Word_Embedding.ipynb`](NLP/code/01.Text_Preprocessing/05.NLP_Word_Embedding.ipynb) | Intro to dense vectors |
 
-</details>
+
 
 <details>
 <summary><strong>2. Probabilistic Models</strong> – Generate text with statistics</summary>
