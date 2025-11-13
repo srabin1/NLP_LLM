@@ -1,4 +1,4 @@
-# NLP and LLM Learning Roadmap – From Basics to Deep Learning
+# NLP Learning Roadmap 
 
 A **step-by-step journey** through Natural Language Processing, implemented in **Google Colaboratory**.
 
